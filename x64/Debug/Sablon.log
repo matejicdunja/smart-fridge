@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\dunja\OneDrive\Radna površina\siit\racunarska grafika\projekat1P2\Teksture\main.cpp(68,39): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\dunja\OneDrive\Radna površina\siit\racunarska grafika\projekat1P2\Teksture\main.cpp(73,39): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\dunja\OneDrive\Radna površina\siit\racunarska grafika\projekat1P2\Teksture\main.cpp(78,38): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\dunja\OneDrive\Radna površina\siit\racunarska grafika\projekat1P2\Teksture\main.cpp(83,38): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\dunja\OneDrive\Radna površina\siit\racunarska grafika\projekat1P2\Teksture\main.cpp(88,46): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\dunja\OneDrive\Radna površina\siit\racunarska grafika\projekat1P2\Teksture\main.cpp(93,46): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\dunja\OneDrive\Radna površina\siit\racunarska grafika\projekat1P2\Teksture\main.cpp(98,45): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\dunja\OneDrive\Radna površina\siit\racunarska grafika\projekat1P2\Teksture\main.cpp(103,45): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\dunja\OneDrive\Radna površina\siit\racunarska grafika\projekat1P2\Teksture\main.cpp(1981,40): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\dunja\OneDrive\Radna površina\siit\racunarska grafika\projekat1P2\Teksture\main.cpp(3064,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dunja\OneDrive\Radna površina\siit\racunarska grafika\projekat1P2\Teksture\main.cpp(3064,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dunja\OneDrive\Radna površina\siit\racunarska grafika\projekat1P2\Teksture\main.cpp(3068,39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dunja\OneDrive\Radna površina\siit\racunarska grafika\projekat1P2\Teksture\main.cpp(3088,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Sablon.vcxproj -> C:\Users\dunja\OneDrive\Radna površina\siit\racunarska grafika\projekat1P2\Teksture\x64\Debug\Sablon.exe

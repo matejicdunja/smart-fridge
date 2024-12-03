@@ -1,0 +1,2 @@
+C:\Users\dunja\OneDrive\Radna površina\siit\racunarska grafika\projekat1P2\Teksture\x64\Debug\glew32.dll
+C:\Users\dunja\OneDrive\Radna površina\siit\racunarska grafika\projekat1P2\Teksture\x64\Debug\Sablon.exe
